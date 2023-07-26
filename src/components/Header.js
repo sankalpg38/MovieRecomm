@@ -16,7 +16,7 @@ const Header = () => {
         <div className="header__logo">
           <Link to="/" style={{ textDecoration: "none" }}>
             <span style={{ color: "white" }}> MOVIE </span>
-            <span style={{ color: "red" }}>RECOMM</span>{" "}
+            <span style={{ color: "red" }}>SAGE</span>{" "}
           </Link>
         </div>
         <button className="sidebar-toggle" onClick={openSidebar}>
