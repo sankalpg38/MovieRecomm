@@ -26,6 +26,7 @@
  
   "scripts": {
     "start": "react-scripts start",
+    "build": "react-scripts build",
     "dev": "concurrently \"cd server && npm run start\" \"npm run start\""
   },
   "eslintConfig": {
